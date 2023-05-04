@@ -1,9 +1,5 @@
 package br.com.javainsider.oo2.classesabstratas;
 
-import br.com.javainsider.oo2.heranca.Cat;
-import br.com.javainsider.oo2.heranca.Dog;
-import br.com.javainsider.oo2.heranca.Pet;
-
 public class App {
     public static void main(String[] args) {
 

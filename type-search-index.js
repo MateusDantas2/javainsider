@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.java.insider.java.core.debuggdocumentation","l":"App"},{"p":"br.com.java.insider.java.core.debuggdocumentation","l":"Javadoc"}];updateSearchResults();
