@@ -1,4 +1,4 @@
-package br.com.javainsider.javaessencial.collections;
+package br.com.javainsider.javaessencial.collections.arrays;
 
 public class ArrayApp7 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.javainsider.javaessencial.collections;
+package br.com.javainsider.javaessencial.collections.arrays;
 
 public class ExItem {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.javainsider.javaessencial.collections;
+package br.com.javainsider.javaessencial.collections.arrays;
 
 import java.util.Arrays;
 
