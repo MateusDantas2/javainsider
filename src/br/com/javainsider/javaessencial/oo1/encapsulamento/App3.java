@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo1.encapsulamento;
+package br.com.javainsider.javaessencial.oo1.encapsulamento;
 
 public class App3 {
     public static void main(String[] args) {

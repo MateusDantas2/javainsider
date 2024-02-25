@@ -1,7 +1,5 @@
 package br.com.javainsider.javaessencial.collections.arrays;
 
-import java.util.Arrays;
-
 public class ArrayApp4 {
     public static void main(String[] args) {
 

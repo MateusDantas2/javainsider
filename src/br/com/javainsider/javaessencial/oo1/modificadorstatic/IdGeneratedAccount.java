@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo1.modificadorstatic;
+package br.com.javainsider.javaessencial.oo1.modificadorstatic;
 
 public class IdGeneratedAccount {
     public static final int INITIAL_VALUE = 10;

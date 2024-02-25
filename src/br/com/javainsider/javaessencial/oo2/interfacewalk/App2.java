@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo2.interfacewalk;
+package br.com.javainsider.javaessencial.oo2.interfacewalk;
 
 import static br.com.javainsider.java.essencial.oo2.interfacewalk.StringManipulator.lower;
 

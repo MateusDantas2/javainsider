@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.textos.numeros.string.numero;
+package br.com.javainsider.javaessencial.textos.numeros.string.numero;
 
 public class FormatApp1 {
     public static void main(String[] args) {

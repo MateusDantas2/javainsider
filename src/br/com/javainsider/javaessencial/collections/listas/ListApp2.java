@@ -1,9 +1,8 @@
 package br.com.javainsider.javaessencial.collections.listas;
 
-import java.util.ArrayList;
 import java.util.List;
 
-public class ListApp2 {
+public class  ListApp2 {
     public static void main(String[] args) {
         List.of();
         var list = List.of("A", "B", "C", "D");

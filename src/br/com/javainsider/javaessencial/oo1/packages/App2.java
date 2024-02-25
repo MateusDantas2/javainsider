@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo1.packages;
+package br.com.javainsider.javaessencial.oo1.packages;
 
 //import java.lang.System;
 //import java.lang.String;

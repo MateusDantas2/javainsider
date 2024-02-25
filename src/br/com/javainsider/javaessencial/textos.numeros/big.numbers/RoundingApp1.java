@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.textos.numeros.big.numbers;
+package br.com.javainsider.javaessencial.textos.numeros.big.numbers;
 
 public class RoundingApp1 {
     public static void main(String[] args) {

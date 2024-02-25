@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo1.packages;
+package br.com.javainsider.javaessencial.oo1.packages;
 
 public class App3 {
     public static void main(String[] args) {
@@ -7,6 +7,6 @@ public class App3 {
 //        br.com.javainsider.oo1.encapsulamento.App b = new br.com.javainsider.oo1.encapsulamento.App();
 
         App a = new App();
-        br.com.javainsider.java.essencial.oo1.encapsulamento.App b = new br.com.javainsider.java.essencial.oo1.encapsulamento.App();
+        br.com.javainsider.javaessencial.oo1.encapsulamento.App b = new br.com.javainsider.javaessencial.oo1.encapsulamento.App();
     }
 }

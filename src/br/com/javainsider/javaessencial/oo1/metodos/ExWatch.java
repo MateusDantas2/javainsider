@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo1.metodos;
+package br.com.javainsider.javaessencial.oo1.metodos;
 
 public class ExWatch {
     public static void main(String[] args) {

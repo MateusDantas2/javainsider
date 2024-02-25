@@ -1,6 +1,6 @@
 package br.com.javainsider.java.essencial.oo2.classesabstratas;
 
-public class ExAccount {
+public class  ExAccount {
     public static void main(String[] args) {
 
         System.out.println("----------CONTA CORRENTE----------");
