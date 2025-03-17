@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.data.time.api;
+package br.com.javainsider.javaessencial.data.time.api;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

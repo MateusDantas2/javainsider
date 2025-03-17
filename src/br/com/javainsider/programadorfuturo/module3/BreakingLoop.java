@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module3;
+package br.com.javainsider.programadorfuturo.module3;
 
 public class BreakingLoop {
 	public static void main(String[] args) {

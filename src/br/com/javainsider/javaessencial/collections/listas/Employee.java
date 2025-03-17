@@ -1,7 +1,5 @@
 package br.com.javainsider.javaessencial.collections.listas;
 
-import java.util.List;
-
 public class Employee {
 
     enum Status {

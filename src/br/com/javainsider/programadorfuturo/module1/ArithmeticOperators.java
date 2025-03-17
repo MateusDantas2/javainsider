@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module1;
+package br.com.javainsider.programadorfuturo.module1;
 
 public class ArithmeticOperators {
 	public static void main(String[] args) {

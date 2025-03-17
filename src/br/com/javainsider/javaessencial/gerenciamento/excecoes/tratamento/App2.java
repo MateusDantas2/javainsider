@@ -1,6 +1,6 @@
-package br.com.javainsider.java.essencial.gerenciamento.excecoes.tratamento;
+package br.com.javainsider.javaessencial.gerenciamento.excecoes.tratamento;
 
-import br.com.javainsider.java.essencial.gerenciamento.excecoes.falhas.InsufficientFundsException;
+import br.com.javainsider.javaessencial.gerenciamento.excecoes.falhas.InsufficientFundsException;
 
 public class App2 {
     public static void main(String[] args) {

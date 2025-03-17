@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.textos.numeros.expressoes.regulares;
+package br.com.javainsider.javaessencial.textos.numeros.expressoes.regulares;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

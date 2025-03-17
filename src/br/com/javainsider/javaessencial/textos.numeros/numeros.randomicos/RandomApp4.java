@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.textos.numeros.numeros.randomicos;
+package br.com.javainsider.javaessencial.textos.numeros.numeros.randomicos;
 
 import java.util.UUID;
 

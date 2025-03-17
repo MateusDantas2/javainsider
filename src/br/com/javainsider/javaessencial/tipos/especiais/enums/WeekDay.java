@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
 public enum WeekDay {
     SUNDAY,
@@ -7,6 +7,6 @@ public enum WeekDay {
     WEDNESDAY,
     THURSDAY,
     FRIDAY,
-    SATURDAY;
+    SATURDAY
 }
 

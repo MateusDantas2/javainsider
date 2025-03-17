@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.java.core.variables;
+package br.com.javainsider.javaessencial.java.core.variables;
 
 public class ExplicitCasting {
 

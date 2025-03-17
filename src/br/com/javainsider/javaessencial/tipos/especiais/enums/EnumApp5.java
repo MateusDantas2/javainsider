@@ -1,7 +1,7 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
-import static br.com.javainsider.java.essencial.tipos.especiais.enums.Car.Brand.AUDI;
-import static br.com.javainsider.java.essencial.tipos.especiais.enums.Car.Brand.BMW;
+import static br.com.javainsider.javaessencial.tipos.especiais.enums.Car.Brand.AUDI;
+import static br.com.javainsider.javaessencial.tipos.especiais.enums.Car.Brand.BMW;
 
 public class EnumApp5 {
     public static void main(String[] args) {

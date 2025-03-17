@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo2.records;
+package br.com.javainsider.javaessencial.oo2.records;
 
 import java.util.Objects;
 

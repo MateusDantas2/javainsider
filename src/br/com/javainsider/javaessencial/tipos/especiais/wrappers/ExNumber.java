@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.tipos.especiais.wrappers;
+package br.com.javainsider.javaessencial.tipos.especiais.wrappers;
 
 import java.util.Scanner;
 

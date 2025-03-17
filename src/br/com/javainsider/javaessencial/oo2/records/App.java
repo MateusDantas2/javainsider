@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.oo2.records;
+package br.com.javainsider.javaessencial.oo2.records;
 
 public class App {
     public static void main(String[] args) {

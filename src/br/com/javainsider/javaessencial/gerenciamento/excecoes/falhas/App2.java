@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.gerenciamento.excecoes.falhas;
+package br.com.javainsider.javaessencial.gerenciamento.excecoes.falhas;
 
 public class App2 {
     public static void main(String[] args) {

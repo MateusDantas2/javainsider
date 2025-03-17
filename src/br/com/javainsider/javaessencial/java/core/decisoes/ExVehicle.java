@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.java.core.decisoes;
+package br.com.javainsider.javaessencial.java.core.decisoes;
 
 public class ExVehicle {
     public static void main(String[] args) {

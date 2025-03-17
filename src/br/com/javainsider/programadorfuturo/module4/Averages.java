@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module4;
+package br.com.javainsider.programadorfuturo.module4;
 
 public class Averages {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.java.core.operadores;
+package br.com.javainsider.javaessencial.java.core.operadores;
 
 public class ExExpression {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module2;
+package br.com.javainsider.programadorfuturo.module2;
 
 public class ParOuImpar {
 	public static void main(String[] args) {

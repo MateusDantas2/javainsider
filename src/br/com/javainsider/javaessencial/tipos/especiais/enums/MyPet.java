@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
 public enum MyPet implements Pet {
     CAT {

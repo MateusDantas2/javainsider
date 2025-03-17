@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module6;
+package br.com.javainsider.programadorfuturo.module6;
 
 public class ExCharReplace {
 	public static void main(String[] args) {

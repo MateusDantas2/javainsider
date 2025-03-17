@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.java.core.repeticoes;
+package br.com.javainsider.javaessencial.java.core.repeticoes;
 
 public class RepeatFor {
     public static void main(String[] args) {

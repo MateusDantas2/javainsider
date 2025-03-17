@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.gerenciamento.excecoes.tratamento;
+package br.com.javainsider.javaessencial.gerenciamento.excecoes.tratamento;
 
 public class App5 {
     public static void main(String[] args) {

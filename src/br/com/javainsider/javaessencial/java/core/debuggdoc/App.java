@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.java.core.debuggdoc;
+package br.com.javainsider.javaessencial.java.core.debuggdoc;
 
 public class App {
     public static void main(String[] args) {

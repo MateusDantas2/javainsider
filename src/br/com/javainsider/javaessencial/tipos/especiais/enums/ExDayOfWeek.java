@@ -1,6 +1,6 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
-import static br.com.javainsider.java.essencial.tipos.especiais.enums.ExDayOfWeek.DayOfWeek.MONDAY;
+import static br.com.javainsider.javaessencial.tipos.especiais.enums.ExDayOfWeek.DayOfWeek.MONDAY;
 
 public class ExDayOfWeek {
 

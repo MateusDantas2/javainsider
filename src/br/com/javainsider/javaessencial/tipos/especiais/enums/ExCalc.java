@@ -1,6 +1,6 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
-import static br.com.javainsider.java.essencial.tipos.especiais.enums.ExCalc.Operation.*;
+import static br.com.javainsider.javaessencial.tipos.especiais.enums.ExCalc.Operation.*;
 
 public class ExCalc {
 

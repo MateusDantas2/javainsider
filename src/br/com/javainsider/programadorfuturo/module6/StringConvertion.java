@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module6;
+package br.com.javainsider.programadorfuturo.module6;
 
 import java.util.Scanner;
 

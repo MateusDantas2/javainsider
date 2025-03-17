@@ -1,4 +1,4 @@
-package br.com.javainsider.programador.futuro.module5;
+package br.com.javainsider.programadorfuturo.module5;
 
 import java.util.Arrays;
 

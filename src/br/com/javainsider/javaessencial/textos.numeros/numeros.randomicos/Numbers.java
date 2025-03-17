@@ -1,3 +1,3 @@
-package br.com.javainsider.java.essencial.textos.numeros.numeros.randomicos;
+package br.com.javainsider.javaessencial.textos.numeros.numeros.randomicos;
 
 public record Numbers(int first, int second) {}

@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.textos.numeros.expressoes.regulares;
+package br.com.javainsider.javaessencial.textos.numeros.expressoes.regulares;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.tipos.especiais.strings;
+package br.com.javainsider.javaessencial.tipos.especiais.strings;
 
 public class ExExtractAndTransform {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package br.com.javainsider.javaessencial.collections.listas;
 
-import org.jetbrains.annotations.NotNull;
-
 public class Person implements Comparable<Person> {
     private final String name;
     private final int age;
@@ -29,7 +27,7 @@ public class Person implements Comparable<Person> {
     }
 
     @Override
-    public int compareTo(@NotNull Person o) {
+    public int compareTo(Person o) {
         if (this.age < o.age) {
             return -1;
         } else if (this.age > o.age) {

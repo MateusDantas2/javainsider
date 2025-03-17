@@ -1,4 +1,4 @@
-package br.com.javainsider.java.essencial.tipos.especiais.enums;
+package br.com.javainsider.javaessencial.tipos.especiais.enums;
 
 public class EnumApp4 {
     public static void main(String[] args) {
