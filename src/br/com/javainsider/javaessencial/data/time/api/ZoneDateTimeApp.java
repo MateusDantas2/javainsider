@@ -9,7 +9,7 @@ public class ZoneDateTimeApp {
 
         LocalDateTime ldt = LocalDateTime.of(2022, 2, 10, 14, 0, 0);
         ZonedDateTime zdt1 = ZonedDateTime.of(ldt, ZoneId.systemDefault());
-        ZonedDateTime zdt2 = zdt1.withZoneSameInstant(ZoneId.of("America/Sao_Paulo"));
+        ZonedDateTime zdt2 = zdt1.withZoneSameInstant(ZoneId.of("America/Fortaleza"));
 
         System.out.println(ZoneId.getAvailableZoneIds());
 
